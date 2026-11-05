@@ -1,0 +1,11 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+*.slxc
+slprj/
+codegen/
+
+# Participant data and analysis outputs
+**/experiment_results/
+**/analysis_results/
